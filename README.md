@@ -1,7 +1,9 @@
 <h1 align="center">Pokedex Alleson</h1>
 
-<img src="src/assets/pokedex_interface.PNG" alt="interface-pokedex" width="400px" align="center">
-> This project consists of creating a pokedex consuming an API in order to develop my skills with ReactJS.
+<div align="center">
+  <img src="src/assets/pokedex_interface.PNG" alt="interface-pokedex" width="600px">
+  <p>This project consists of creating a pokedex consuming an API in order to develop my skills with ReactJS.</p>
+</div>
 
 ### 🚀 Technologies
 

@@ -2,6 +2,7 @@
 
 <div align="center">
   <img src="src/assets/pokedex_interface.PNG" alt="interface-pokedex" width="600px">
+  <button><a target="_blank" href="https://pokedex-alleson.netlify.app"><img src=".github/netlify.svg" alt="netlify"></img></a></button>
   <p>This project consists of creating a pokedex consuming an API in order to develop my skills with ReactJS.</p>
   
   

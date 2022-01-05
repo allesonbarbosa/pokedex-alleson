@@ -3,9 +3,7 @@
 <div align="center">
   <img src="src/assets/pokedex_interface.PNG" alt="interface-pokedex" width="600px">
   <p>This project consists of creating a pokedex consuming an API in order to develop my skills with ReactJS.</p>
-</div>
-
-### 🚀 Technologies
+  ### 🚀 Technologies
 
 This project was developed with the following technologies:
 
@@ -50,3 +48,5 @@ We thank the following people who contributed to this project:
     </td>
   </tr>
 </table>
+
+</div>

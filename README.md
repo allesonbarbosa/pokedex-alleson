@@ -3,7 +3,9 @@
 <div align="center">
   <img src="src/assets/pokedex_interface.PNG" alt="interface-pokedex" width="600px">
   <p>This project consists of creating a pokedex consuming an API in order to develop my skills with ReactJS.</p>
-  ### 🚀 Technologies
+  
+  
+  <h1 color="Blue">🚀 Technologies</h1>
 
 This project was developed with the following technologies:
 
@@ -14,7 +16,7 @@ This project was developed with the following technologies:
 - [x] Styled Components
 
 
-## 🚀 How to use
+  <h1 color="Blue">🚀 How to use</h1>
 
 
 To clone and run this application, you'll need Git, Node.js and Yarn installed on your computer. From your command line:
@@ -32,7 +34,7 @@ $ yarn install
 # Run the app
 $ yarn start
 ```
-## 🤝 Contributors
+  <h1 color="Blue">🤝 Contributors</h1>
 
 We thank the following people who contributed to this project:
 
